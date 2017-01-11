@@ -1,0 +1,8 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "Making from the tuts",
+  "dependencies": {
+    "socket.io": "^1.7.2"
+  }
+}
